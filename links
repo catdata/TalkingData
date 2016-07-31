@@ -1,6 +1,9 @@
 #Solució inicial
 https://www.kaggle.com/yibochen/talkingdata-mobile-user-demographics/xgboost-in-r-2-27217
 
+#Dades
+https://storage.googleapis.com/static.intranetum.com/sortida.csv
+
 #Ensembles/stacking learning
 http://learn.h2o.ai/content/tutorials/ensembles-stacking/
 http://machinelearningmastery.com/machine-learning-ensembles-with-r/
